@@ -1,2 +1,2 @@
 First line in file1.txt
-This is extra line added to file1.txt
+This is extra line added to file1.txtThis is a new line added within file1.txt to support further exploration of git log --after command
