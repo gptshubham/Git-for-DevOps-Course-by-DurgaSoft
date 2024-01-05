@@ -1,3 +1,4 @@
 First line in file1.txt
 Second line in file1.txtThird line in file2.txt
 Extra line in file2.txt
+Fifth line in file1.txtSixth line in file1.txt
